@@ -1,0 +1,28 @@
+name: integral-focusing
+favicon: null
+layout_spectrum: 0.2443192540667951
+typography_spectrum: 0.000412133289501071
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49534745304845273
+  lightness: 0.08974402793683112
+  saturation: 0.09328305372036994
+  rhythmicContrast: 0.8086034620646387
+purpose: []
